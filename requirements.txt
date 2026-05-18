@@ -1,0 +1,12 @@
+streamlit
+langchain
+langgraph
+langchain_deepseek
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
+duckduckgo-search
+numexpr
+matplotlib
+httpx>=0.27
